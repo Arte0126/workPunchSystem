@@ -1,0 +1,6 @@
+framework module Pods_workPunchSystem {
+  umbrella header "Pods-workPunchSystem-umbrella.h"
+
+  export *
+  module * { export * }
+}

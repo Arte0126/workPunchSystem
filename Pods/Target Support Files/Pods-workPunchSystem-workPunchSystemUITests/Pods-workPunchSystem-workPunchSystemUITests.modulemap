@@ -1,0 +1,6 @@
+framework module Pods_workPunchSystem_workPunchSystemUITests {
+  umbrella header "Pods-workPunchSystem-workPunchSystemUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
